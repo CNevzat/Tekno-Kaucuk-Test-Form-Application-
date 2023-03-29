@@ -1,6 +1,7 @@
 # Tekno-Kaucuk-Test
 ## Windows Form Application
 Özellikler:
+
 Birinci işlevsellik: Sayı girebileceğim üç tane textbox bulunacak. Bu textbox’lara sayılar gireceğim. “Sonucu Göster” düğmesine bastığımda ilk iki textbox’a girilen sayıların toplamının üçüncü textbox’a girilen sayı ile çarpımının sonucu dördüncü bir textbox’ta gözükecek.
  
 İkinci işlevsellik: Bir düğmeye basıldığında ekrana 1’den 200’e kadar olan sayılar yazılacak. Ancak sayı 3’ün katı ise sayının yerine ‘zig’ yazılacak, sayı 5’in katı ise sayının yerine ‘zag’ yazılacak. Sayı hem 3’ün hem de 5’in katı ise ‘zigzag’ yazılacak. 100’den sonra ‘zigzag’ yerine ‘zagzig’ yazılacak.
