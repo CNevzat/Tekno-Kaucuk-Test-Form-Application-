@@ -1,6 +1,6 @@
 # Tekno-Kaucuk-Test
 ## Windows Form Application
-Özellikler:
+### Özellikler:
 
 **Birinci işlevsellik:** Sayı girebileceğim üç tane textbox bulunacak. Bu textbox’lara sayılar gireceğim. “Sonucu Göster” düğmesine bastığımda ilk iki textbox’a girilen sayıların toplamının üçüncü textbox’a girilen sayı ile çarpımının sonucu dördüncü bir textbox’ta gözükecek.
  
