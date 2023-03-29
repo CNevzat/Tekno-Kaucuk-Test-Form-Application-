@@ -1,0 +1,12 @@
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\bin\Debug\TeknoKaucukYazılım(Test 1).exe.config
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\bin\Debug\TeknoKaucukYazılım(Test 1).exe
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\bin\Debug\TeknoKaucukYazılım(Test 1).pdb
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).csproj.AssemblyReference.cache
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).csproj.SuggestedBindingRedirects.cache
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım_Test_1_.Form1.resources
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım_Test_1_.Properties.Resources.resources
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).csproj.GenerateResource.cache
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).csproj.CoreCompileInputs.cache
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).exe
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım(Test 1).pdb
+C:\Users\ncirp\Desktop\TeknoKaucukYazılım(Test 1)\obj\Debug\TeknoKaucukYazılım_Test_1_.Form2.resources
